@@ -1,2 +1,3 @@
 row to index
 row to index
+git log --since="first day of this month" --until="last day of this month" --pretty=format:"%h, %ad, %s"
